@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Sandrea-G/cv-react/static/css/main.9eee0810.css",
-    "main.js": "/Sandrea-G/cv-react/static/js/main.91fed7d8.js",
-    "static/media/map.jpg": "/Sandrea-G/cv-react/static/media/map.3e5949c9b6f7cd03bd31.jpg",
-    "static/media/Sandrea.jpg": "/Sandrea-G/cv-react/static/media/Sandrea.95754bad14083233827a.jpg",
-    "index.html": "/Sandrea-G/cv-react/index.html",
-    "static/media/shape.svg": "/Sandrea-G/cv-react/static/media/shape.48ffcaaa56fc596d45d3.svg",
-    "main.9eee0810.css.map": "/Sandrea-G/cv-react/static/css/main.9eee0810.css.map",
-    "main.91fed7d8.js.map": "/Sandrea-G/cv-react/static/js/main.91fed7d8.js.map"
+    "main.css": "/cv-react/static/css/main.6655de0c.css",
+    "main.js": "/cv-react/static/js/main.8b486c9e.js",
+    "static/media/map.jpg": "/cv-react/static/media/map.3e5949c9b6f7cd03bd31.jpg",
+    "static/media/Sandrea.jpg": "/cv-react/static/media/Sandrea.95754bad14083233827a.jpg",
+    "static/media/sandrea.jpg": "/cv-react/static/media/sandrea.95754bad14083233827a.jpg",
+    "index.html": "/cv-react/index.html",
+    "static/media/shape.svg": "/cv-react/static/media/shape.48ffcaaa56fc596d45d3.svg",
+    "main.6655de0c.css.map": "/cv-react/static/css/main.6655de0c.css.map",
+    "main.8b486c9e.js.map": "/cv-react/static/js/main.8b486c9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9eee0810.css",
-    "static/js/main.91fed7d8.js"
+    "static/css/main.6655de0c.css",
+    "static/js/main.8b486c9e.js"
   ]
 }
