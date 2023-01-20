@@ -118,9 +118,11 @@
       justify-content: left;
 
     }
-    img {
+    .img {
+      background: url(../../media/map.jpg);    
+      background-size: cover;
       grid-area: 3;
-      object-fit: cover;
+      // object-fit: cover;
       margin: 0 auto;
       width: 90%;
       height: 90%;
@@ -128,6 +130,7 @@
       border-radius: 10px;
       cursor: pointer;
     }
+    
     .infos {
       grid-area: 4;
       color: $color-5;
