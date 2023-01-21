@@ -20,6 +20,7 @@ class Project extends Component {
                     )}
                 </div>
                 <h3>{name}</h3>
+
                 <div className="img"></div>
                 {/* <img src = {picture} alt= {name} onClick={this.handleInfo}/> */}
                 <span className="infos" onClick={this.handleInfo}>

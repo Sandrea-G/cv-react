@@ -119,10 +119,11 @@
 
     }
     .img {
-      background: url(../../media/map.jpg);    
-      background-size: cover;
+      background: url(../../media/surprise.png) center;    
+      background-size: contain;
+      background-repeat: no-repeat;
       grid-area: 3;
-      // object-fit: cover;
+      object-fit: cover;
       margin: 0 auto;
       width: 90%;
       height: 90%;
@@ -230,7 +231,7 @@
       grid-template-rows: 30px 40px 80px 40px !important;
       width: 98% !important;
 
-      img {
+      .img {
         height: 100% !important;
       }
     }
