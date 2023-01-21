@@ -40,7 +40,7 @@ export const portfolioData = [
     name: 'CV',
     languages: ['react','css'],
     languagesIcons: ['fa-brands fa-react'],
-    source: 'http://www.github.com',
+    source: 'https://sandrea-g.github.io/cv-react',
     info: 'J\'ai réalisé mon CV de Développeuse Web avec React.js et Sass, ainsi que le design. Cela permet de mettre en avant mes compétences ainsi que ma passion pour le développement Front-End.',
     picture: '../../../img/project5.jpg'
   },
