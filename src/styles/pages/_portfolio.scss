@@ -131,7 +131,7 @@
       border-radius: 10px;
       cursor: pointer;
     }
-    
+
     .infos {
       grid-area: 4;
       color: $color-5;
@@ -233,6 +233,10 @@
 
       .img {
         height: 100% !important;
+      }
+
+      .infosContent {
+        width: 100% !important;
       }
     }
   }
